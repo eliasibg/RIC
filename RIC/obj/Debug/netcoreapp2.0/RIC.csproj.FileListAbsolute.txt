@@ -1,0 +1,11 @@
+C:\Users\Eliasib\source\repos\RIC\RIC\bin\Debug\netcoreapp2.0\RIC.deps.json
+C:\Users\Eliasib\source\repos\RIC\RIC\bin\Debug\netcoreapp2.0\RIC.runtimeconfig.json
+C:\Users\Eliasib\source\repos\RIC\RIC\bin\Debug\netcoreapp2.0\RIC.runtimeconfig.dev.json
+C:\Users\Eliasib\source\repos\RIC\RIC\bin\Debug\netcoreapp2.0\RIC.dll
+C:\Users\Eliasib\source\repos\RIC\RIC\bin\Debug\netcoreapp2.0\RIC.pdb
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.csprojResolveAssemblyReference.cache
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.csproj.CoreCompileInputs.cache
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.AssemblyInfoInputs.cache
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.AssemblyInfo.cs
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.dll
+C:\Users\Eliasib\source\repos\RIC\RIC\obj\Debug\netcoreapp2.0\RIC.pdb
